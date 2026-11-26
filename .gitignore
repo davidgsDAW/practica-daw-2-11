@@ -1,0 +1,4 @@
+scripts/.env
+*.tar.gz
+*.sql
+*.sha256
