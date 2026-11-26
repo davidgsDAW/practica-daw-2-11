@@ -1,0 +1,6 @@
+Require ip IP_ADMIN_HERE
+
+
+<Files "admin-ajax.php">
+    Require all granted
+</Files>
